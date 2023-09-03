@@ -1,7 +1,7 @@
 [
   {
     "remote":       "github",
-    "repository":   "madmax7896/android_hardware_xiaomi",
+    "repository":   "LineageOS/android_hardware_xiaomi",
     "target_path":  "hardware/xiaomi"
   },
   {
@@ -10,7 +10,7 @@
   },
   {
     "remote":       "gitlab",
-    "repository":   "madmax7896/android_vendor_xiaomi_sm8250-common",
+    "repository":   "imzrme/vendor_xiaomi_sm8250-common",
     "target_path":  "vendor/xiaomi/sm8250-common"
   }
 ]
